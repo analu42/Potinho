@@ -1,0 +1,25 @@
+# Ignorar chaves secretas e variáveis de ambiente
+.env
+
+# Ignorar arquivos de áudio gerados
+*.wav
+*.mp3
+
+# Ignorar dependências e cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignorar arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar pastas e arquivos de ambientes virtuais
+venv/
+env/
+.venv/
+.env/
+
+# Ignorar logs
+*.log
